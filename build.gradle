@@ -30,6 +30,6 @@ task resolveAndLockAll {
 }
 
 wrapper {
-  gradleVersion = '4.9-rc-1'
+  gradleVersion = '4.9'
 }
 
